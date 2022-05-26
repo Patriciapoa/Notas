@@ -1,0 +1,15 @@
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/bin/Debug/net6.0/Revisao
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/bin/Debug/net6.0/Revisao.deps.json
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/bin/Debug/net6.0/Revisao.runtimeconfig.json
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/bin/Debug/net6.0/Revisao.dll
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/bin/Debug/net6.0/Revisao.pdb
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.csproj.AssemblyReference.cache
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfoInputs.cache
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfo.cs
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.csproj.CoreCompileInputs.cache
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.dll
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/refint/Revisao.dll
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.pdb
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/Revisao.genruntimeconfig.cache
+/Users/Mrczz/Desktop/Patricia/Notas/Revisao/obj/Debug/net6.0/ref/Revisao.dll
